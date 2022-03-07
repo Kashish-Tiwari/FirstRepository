@@ -1,0 +1,17 @@
+*{
+    
+    box-sizing: border-box;
+}
+body{
+    color:#fff
+    background-color:#349834;
+}
+
+h2{
+    color:red
+}
+input{
+    padding:10px 0
+    margin-bottom 20px
+    border 1px solid #349834
+}
